@@ -36,6 +36,7 @@
     "website": "17-407-chinese-foreign-policy-fall-2005"
   },
   "course_title": "Chinese Foreign Policy",
+  "hide_download": true,
   "course_description": "This lecture course provides students with a comprehensive introduction to the international relations of the People\u2019s Republic of China. China\u2019s foreign relations during the Cold War as well as contemporary diplomatic, security and economic issues will be examined to identify and explain China\u2019s foreign policy goals and their implementation since 1949. Throughout, this course will investigate the sources of conflict and cooperation in China\u2019s behavior, assessing competing explanations for key events and policies. Readings will be drawn from political science, history, and international relations theory.\n",
   "department_numbers": [
     "17"
@@ -46,6 +47,7 @@
     "content": "80312161-41ce-cae3-d4b9-b649fd44e936",
     "website": "17-407-chinese-foreign-policy-fall-2005"
   },
+  "hide_download_original": true,
   "learning_resource_types": [],
   "site_uid": "b337c1e3-de23-432e-b813-ff68f495105c",
   "site_short_id": "17.407-fall-2005",
