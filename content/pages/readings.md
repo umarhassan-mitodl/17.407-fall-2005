@@ -107,13 +107,13 @@ Lieberthal, Kenneth. "Domestic Politics and Foreign Policy." In *China's Foreign
 
 Spence. *The Search for Modern China.* New York, NY: W.W. Norton, 1999, pp. 677-704. ISBN: 9780393973518.
 
-Baijia, Zhang. "Chinese Politics and Asia-Pacific Policy." In *The Golden Age of the U.S.-China-Japan Triangle, 1972-1989.* Edited by Ezra Vogel et al. Cambridge, MA: Harvard University Press, 2002, pp. 38-51. ISBN: 9780674009608. ([PDF - 2.1 MB](http://www.fas.harvard.edu/~asiactr/publications/pdfs/Vogel_Age_of_Uncertainty.pdf)).
+Baijia, Zhang. "Chinese Politics and Asia-Pacific Policy." In *The Golden Age of the U.S.-China-Japan Triangle, 1972-1989.* Edited by Ezra Vogel et al. Cambridge, MA: Harvard University Press, 2002, pp. 38-51. ISBN: 9780674009608. ({{% resource_link "047ed4b9-5975-4bfc-a529-a07112870342" "PDF - 2.1 MB" %}}).
 
 Hamrin, Carol Lee. "China Reassess the Superpowers." *Pacific Affairs* 56, no. 2 (Summer 1983): 209-231.
 
-Xiaoping, Deng. "[Peace And Development Are The Two Outstanding Issues In The World Today](http://english.peopledaily.com.cn/dengxp/vol3/text/c1330.html)." March 4, 1985.
+Xiaoping, Deng. "{{% resource_link "78addbfd-b49f-400c-ae58-629aea57c423" "Peace And Development Are The Two Outstanding Issues In The World Today" %}}." March 4, 1985.
 
-———. "[Speech At An Enlarged Meeting Of The Military Commission Of The Central Committee Of The Communist Party Of China](http://english.peopledaily.com.cn/dengxp/vol3/text/c1410.html)." June 4, 1985.
+———. "{{% resource_link "1c78707d-e289-408c-9d59-c96143f03349" "Speech At An Enlarged Meeting Of The Military Commission Of The Central Committee Of The Communist Party Of China" %}}." June 4, 1985.
 
 Mann, James. *About Face: A History of America’s Curious Relationship with China, From Nixon to Clinton.* New York, NY: Knopf, 1998, pp. 194-255. ISBN: 9780679450535.
 
@@ -178,15 +178,15 @@ Whiting, Allen S. "China's Use of Force, 1950-96, and Taiwan." *International Se
 
 Godwin, Paul H. B. "Change and Continuity in Chinese Military Doctrine, 1949-1999." In *Chinese Warfighting: The PLA Experience Since 1949*. Edited by Mark A. Ryan, David M. Finkelstein, and Michael A. McDevitt. Armonk, NY: M.E. Sharpe, 2003, pp. 23-55. ISBN: 9780765610874.
 
-Information Office of the State Council of the People's Republic of China. [*China's National Defense in 2004*](http://www.china.org.cn/e-white/20041227/index.htm). December 2004, Chapters I-IV.
+Information Office of the State Council of the People's Republic of China. {{% resource_link "a08ac830-ed2b-4768-a09c-67121a808eb0" "*China's National Defense in 2004*" %}}. December 2004, Chapters I-IV.
 
-Jiang Zemin's Report at 16th Party Congress. "[VII. National Defense and Army Building](http://www.bjreview.com/17thCPC/txt/2007-10/10/content_79209_4.htm)."
+Jiang Zemin's Report at 16th Party Congress. "{{% resource_link "e65a5b14-4b78-43a3-9d0b-486c6a58fb88" "VII. National Defense and Army Building" %}}."
 
 Gill, Bates, James Mulvenon, and Mark Stokes. "The Chinese Second Artillery Corps: Transition To Credible Deterrence." In *The People's Liberation Army as Organization: Reference Vol. v1.0*. Edited by James C. Mulvenon, and Andrew N. D. Yang. Santa Monica, CA: Rand Corporation, pp. 510-517, 536-560, skim rest.
 
-Brown, Harold, Joseph W. Prueher, and Adam Segal. [*Chinese Military Power: Report of an Independent Task Force*](http://www.cfr.org/publication.html?id=5985)*.* New York, NY: Council on Foreign Relations Press, 2003.
+Brown, Harold, Joseph W. Prueher, and Adam Segal. {{% resource_link "b25d3386-2752-48a4-bb9d-01cea09471e2" "*Chinese Military Power: Report of an Independent Task Force*" %}}*.* New York, NY: Council on Foreign Relations Press, 2003.
 
-Office of the Secretary of Defense. The Military Power of the People's Republic of China (July 2005). ([PDF - 1.3 MB](http://www.dod.mil/news/Jul2005/d20050719china.pdf))
+Office of the Secretary of Defense. The Military Power of the People's Republic of China (July 2005). ({{% resource_link "fc763db7-2151-4aa9-a71e-d37ef9d5f72f" "PDF - 1.3 MB" %}})
 
 *Recommended*   
 Whiting, Allen. *The Chinese Calculus of Deterrence*. Ann Arbor, MI: University of Michigan Press, 1981, pp. 196-223. ISBN: 9780472969005.
@@ -211,7 +211,7 @@ Rising China's Grand Strategy
 
 *Required*
 
-Baijia, Zhang. "Chinese Domestic and Foreign Policies in the 1990s." In *The Age of Uncertainty: The U.S.-China-Japan Triangle from Tiananmen (1989) to 9/11 (2001).* Edited by Harvard East Asian Monographs Online, 2005, pp. 61-81. ([PDF - 2.1 MB](http://www.fas.harvard.edu/~asiactr/publications/pdfs/Vogel_Age_of_Uncertainty.pdf))
+Baijia, Zhang. "Chinese Domestic and Foreign Policies in the 1990s." In *The Age of Uncertainty: The U.S.-China-Japan Triangle from Tiananmen (1989) to 9/11 (2001).* Edited by Harvard East Asian Monographs Online, 2005, pp. 61-81. ({{% resource_link "047ed4b9-5975-4bfc-a529-a07112870342" "PDF - 2.1 MB" %}})
 
 Friedberg, Aaron. "The Struggle for Mastery in Asia." *Commentary* (November 2000): 17-26.
 
@@ -221,7 +221,7 @@ Goldstein, Avery. "An Emerging China's Emerging Grand Strategy: A Neo-Bismarckia
 
 Bijian, Zheng. "A New Path for China's Peaceful Rise and the Future of Asia." 2003.
 
-Jiang Zemin's Report at 16th Party Congress. "[IX. The International Situation and Our External Work](http://www.china.org.cn/english/features/49007.htm#8)."
+Jiang Zemin's Report at 16th Party Congress. "{{% resource_link "45bc4dc0-7ce8-41dd-a7ad-70717dd7aaef" "IX. The International Situation and Our External Work" %}}."
 
 *Recommended*   
 Johnston, Alastair Iain. "Is China a Status Quo Power?" *International Security* 27, no. 4 (Spring 2003): 5-56.
@@ -277,7 +277,7 @@ Scobell, Andrew. "Show of Force: The 1995-1996 Taiwan Crisis." In *China's Use o
 
 Roy, Denny. "Tensions in the Taiwan Strait." *Survival* 42, no. 1 (Spring 2000): 76-96.
 
-Jiang Zemin's Report at 16th Party Congress. "[VIII. "One Country, Two Systems" and Complete National Reunification](http://www.china.org.cn/english/features/49007.htm#8)."
+Jiang Zemin's Report at 16th Party Congress. "{{% resource_link "45bc4dc0-7ce8-41dd-a7ad-70717dd7aaef" "VIII. \"One Country, Two Systems\" and Complete National Reunification" %}}."
 
 *Recommended*
 
@@ -330,7 +330,7 @@ Mosher, Steven M. *Hegemon: China's Plan to Dominate Asia and the World*. San Fr
 
 Fravel, M. Taylor. "Regime Insecurity and International Cooperation: Explaining China's Compromises in Territorial Disputes." *International Security* 30, no. 2 (Fall 2005 forthcoming).
 
-Li, Nan. "[From Revolutionary Internationalism to Conservative Nationalism: The Chinese Military's Discourse on National Security and Identity in the Post-Mao Era](http://www.isn.ethz.ch/isn/Digital-Library/Publications/Detail/?ots591=0C54E3B3-1E9C-BE1E-2C24-A6A8C7060233&lng=en&id=30018)." *Peaceworks no. 39.* Washington, DC: United States Institute of Peace, 2001.
+Li, Nan. "{{% resource_link "083b2e1b-e618-4b5a-adc1-be68d9bd57e3" "From Revolutionary Internationalism to Conservative Nationalism: The Chinese Military's Discourse on National Security and Identity in the Post-Mao Era" %}}." *Peaceworks no. 39.* Washington, DC: United States Institute of Peace, 2001.
 
 Guan, Ang Cheng. "The South China Sea Dispute Revisited." *Australian Journal of International Affairs* 54, no. 2 (2000): 201-215.
 
@@ -405,7 +405,7 @@ Relations With Japan
 
 Johnson, Chalmers. "The Patterns of Japanese Relations with China, 1952-1982." *Pacific Affairs* 59, no. 3 (Fall 1986): 402-428.
 
-Tuosheng, Zhang. "Sino-Japanese Relations at the Turn of the Century (1992 to 2001)." In *The Age of Uncertainty.* Edited by Ezra Vogel et al. pp. 227-253. ([PDF - 2.1 MB](http://www.fas.harvard.edu/~asiactr/publications/pdfs/Vogel_Age_of_Uncertainty.pdf))
+Tuosheng, Zhang. "Sino-Japanese Relations at the Turn of the Century (1992 to 2001)." In *The Age of Uncertainty.* Edited by Ezra Vogel et al. pp. 227-253. ({{% resource_link "047ed4b9-5975-4bfc-a529-a07112870342" "PDF - 2.1 MB" %}})
 
 Gries, Peter H. "China's 'New Thinking on Japan'." *The China Quarterly* (forthcoming 2005).
 
