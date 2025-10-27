@@ -2,8 +2,6 @@
 content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, format, requirements, grading, course information, and policies.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -94,7 +92,7 @@ Course Information and Policies
 
 ### Stay Current
 
-Stay abreast of current developments through the Asia sections of the [Washington Post](https://www.washingtonpost.com/world/asia-pacific/?nid=menu_nav_world-asiaandpacific&utm_term=.13dd5132fdd0), [New York Times](http://www.nytimes.com/pages/world/asia/index.html), and the [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/default.stm). For the latest developments in China, see [Pacific Forum: Comparative Connections](http://cc.pacforum.org/), [China Leadership Monitor](https://www.hoover.org/publications/china-leadership-monitor), and [China Brief](https://jamestown.org/programs/cb/). Major news outlets in China have English editions, including the [People's Daily](http://english.peopledaily.com.cn/), [Liberation Army Daily](http://english.chinamil.com.cn/), and [Xinhua](http://www.chinaview.cn/), the central news agency. Also, scan the [Ministry of Foreign Affairs](https://www.mofa.go.jp/) and [State Council](http://www.china.org.cn/english/index.htm) web sites.
+Stay abreast of current developments through the Asia sections of the {{% resource_link "c3f2f5c6-155d-4d4e-bcc7-25f242394f5f" "Washington Post" %}}, {{% resource_link "c6049c4b-4ead-4ff7-a464-eaae69972b67" "New York Times" %}}, and the {{% resource_link "79ff8b84-91d9-42c2-965b-b3e9ab5cb569" "BBC" %}}. For the latest developments in China, see {{% resource_link "1f670077-f878-4aee-81d8-e9590f5fb050" "Pacific Forum: Comparative Connections" %}}, {{% resource_link "d3522853-20c2-46b7-a26f-41c705b37e8b" "China Leadership Monitor" %}}, and {{% resource_link "0f569493-878f-4832-b734-126657e77931" "China Brief" %}}. Major news outlets in China have English editions, including the {{% resource_link "6ea8b30f-797c-4281-9807-e3099b3717f9" "People's Daily" %}}, {{% resource_link "4dfe7ea8-c820-42b5-97b8-7d6b659cc2d6" "Liberation Army Daily" %}}, and {{% resource_link "9bbdbba6-372a-434f-83d3-5c541dba581c" "Xinhua" %}}, the central news agency. Also, scan the {{% resource_link "200e1371-a3f3-4f6a-ba0a-d2255209f3d7" "Ministry of Foreign Affairs" %}} and {{% resource_link "344eb1e0-1292-4e75-b423-6665bbee9ba0" "State Council" %}} web sites.
 
 ### Disabilities
 
@@ -106,4 +104,4 @@ Make-up exams or extensions will not be granted except in case of emergency and 
 
 ### Plagiarism
 
-Plagiarism will not be tolerated. Plagiarism is "a piece of writing that has been copied from someone else and is presented as being your own work." This includes ideas as well as specific phrases, sentences or paragraphs. **Do not misrepresent your own work** . See Avoiding Plagiarism from [MIT's Writing Center](http://web.mit.edu/writing/Citation/plagiarism.html) and [MIT's rules](http://web.mit.edu/Policies/10/index.html) regarding academic honesty.
+Plagiarism will not be tolerated. Plagiarism is "a piece of writing that has been copied from someone else and is presented as being your own work." This includes ideas as well as specific phrases, sentences or paragraphs. **Do not misrepresent your own work** . See Avoiding Plagiarism from {{% resource_link "0d140462-801d-4dbf-99ee-c986066f4482" "MIT's Writing Center" %}} and {{% resource_link "a09bd10a-ada2-48fe-813e-40f7dcf6f833" "MIT's rules" %}} regarding academic honesty.
